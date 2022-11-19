@@ -1,7 +1,8 @@
 # Diagrama-ER-Sistema-de-Hospital
+
 Neste projeto chamado "o hospital" proposto pelo meu professor, criei uma estrutura de banco de dados adequada por meio de um Diagrama Entidade-Relacionamento para um hospital
 
-## Problema Prosto
+## Problema Proposto
 
 Um pequeno hospital local busca desenvolver um novo sistema que atenda melhor às suas necessidades. Atualmente, parte da operação ainda se apoia em planilhas e arquivos antigos, mas espera-se que esses dados sejam transferidos para o novo sistema assim que ele estiver funcional. Neste momento, é necessário analisar com cuidado as necessidades desse cliente e sugerir uma estrutura de banco de dados adequada por meio de um Diagrama Entidade-Relacionamento.
 
@@ -16,4 +17,4 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 
 ## Diagrama Entidade Relacionamento
 
-![modelo-hospital]
+![modelo-hospital](https://raw.githubusercontent.com/DevOrosco/Hospital-Fundamental/main/Hospital_Fundamental.png)
